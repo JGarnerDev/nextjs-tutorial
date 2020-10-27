@@ -12,9 +12,18 @@ Nothing profound here - I wanted to learn how to do React SSR, so here I am.
 
 1. Initialization and Setup
 
-   Start by initializing npm (done)
-   Make a gitignore file, so we don't upload our modules (or sensitive material in the future) (done)
-   Install Next.js, React, and React-DOM (done)
-   Assign Next as run scripts for dev, build, and start in package.json (done)
-   Make a folder called 'pages'. This is, funny enough, where all our pages of our website will go. This is how Next.js does routing. (done)
-   Make a file inside the pages direcory called index.js, which not suprising. By default, files named 'index' are run when directories are 'evoked' (right term?) (done)
+   - Start by initializing npm (done)
+
+   - Make a gitignore file, so we don't upload our modules (or sensitive material in the future) (done)
+
+   - Install Next.js, React, and React-DOM (done)
+
+   - Assign Next as run scripts for dev, build, and start in package.json (done)
+
+   - Make a folder called 'pages'. This is, funny enough, where all our pages of our website will go. This is how Next.js does routing. (done)
+
+   - Make a file inside the pages direcory called index.js, which not suprising. By default, files named 'index' are run when directories are 'evoked' (right term?) (done)
+
+2. First Steps
+
+   - Make a "Hello world" (or something) as innerText to a div in our index.js file, and check it out by running 'npm run dev' (done)
