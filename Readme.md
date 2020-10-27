@@ -31,3 +31,7 @@ Nothing profound here - I wanted to learn how to do React SSR, so here I am.
    - Make another page called 'about'. Make it the same as our index, but with different text. Navigate to that page by typing the file name in the address. (done)
 
    - Create a link using Next's library, have links that bring you from 'index' to 'about', and vice versa
+
+   - Create a very simple navbar component in a new components directory that has these links. Import it to the index page. (done)
+
+   - Apply styling to the navbar by making a style tag in the jsx. (done)
