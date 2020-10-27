@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-tutorial",
+  "version": "1.0.0",
+  "description": "A project to learn Next.js by following TraversyMedia's tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGarnerDev/nextjs-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGarnerDev/nextjs-tutorial/issues"
+  },
+  "homepage": "https://github.com/JGarnerDev/nextjs-tutorial#readme"
+}
