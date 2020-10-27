@@ -1,13 +1,10 @@
-import Link from "next/link";
+import Layout from "../components/Layout";
 
 const About = () => (
-  <div>
+  <Layout>
     <h1>This is the About page</h1>
     <h2>You should also have minimal expectations for content here, too</h2>
-    <Link href="/">
-      <a>Home page</a>
-    </Link>
-  </div>
+  </Layout>
 );
 
 export default About;

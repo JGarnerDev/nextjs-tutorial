@@ -35,3 +35,5 @@ Nothing profound here - I wanted to learn how to do React SSR, so here I am.
    - Create a very simple navbar component in a new components directory that has these links. Import it to the index page. (done)
 
    - Apply styling to the navbar by making a style tag in the jsx. (done)
+
+   - Make a layout HOC to reduce redundancy in coding our navbar jsx (done)
